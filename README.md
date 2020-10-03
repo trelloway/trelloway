@@ -6,10 +6,9 @@ I job i have lots of different areas to work on, for example web developing. I l
 
 Skills: HTML / CSS / JS / SQL / Python / C#
 
-🔭 I’m currently working on my first publsihed website
-🌱 I’m currently learning Javascript and C#
-💬 Ask me about HTML, CSS and JS
-📫 How to reach me: Contact me on Instagram, Reddit, Discord, Github or on my Website
-⚡ Fun fact: I live in Germany and im 16 years old
-
+- 🔭 I’m currently working on my first publsihed website 
+- 🌱 I’m currently learning Javascript and C# 
+- 💬 Ask me about HTML, CSS and JS 
+- 📫 How to reach me: Contact me on Instagram, Reddit, Discord, Github or on my Website 
+- ⚡ Fun fact: I live in Germany and im 16 years old 
 
