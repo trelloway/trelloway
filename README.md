@@ -6,6 +6,8 @@ I job i have lots of different areas to work on, for example web developing. I l
 
 Skills: HTML / CSS / JS / SQL / Python / C#
 -------------------------------------------
+Some informations:
+-------------------------------------------
 - 🔭 I’m currently working on my first publsihed website 
 - 🌱 I’m currently learning Javascript and C# 
 - 💬 Ask me about HTML, CSS and JS 
