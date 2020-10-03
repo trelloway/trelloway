@@ -5,7 +5,7 @@ In my
 I job i have lots of different areas to work on, for example web developing. I like to code in HTML, CSS and JS. Also i have basic knowledge of SQL, Python and C#.
 
 Skills: HTML / CSS / JS / SQL / Python / C#
-
+-------------------------------------------
 - 🔭 I’m currently working on my first publsihed website 
 - 🌱 I’m currently learning Javascript and C# 
 - 💬 Ask me about HTML, CSS and JS 
